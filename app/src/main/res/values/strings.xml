@@ -24,6 +24,10 @@
     <!-- Preference summary for settings related to send telemetry data -->
     <string name="preferences_use_telemetry_summary">Send usage data</string>
 
+    <!-- Preference for downloading a file -->
+    <string name="download_file">Download Cool File</string>
+    <string name="preferences_download_file_summary">Select to Download a cool file</string>
+
     <!-- Preference for settings related to changing the default browser -->
     <string name="preferences_make_default_browser">Make default browser</string>
 

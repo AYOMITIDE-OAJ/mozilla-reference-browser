@@ -39,6 +39,10 @@ plugins {
     id "io.gitlab.arturbosch.detekt" version "$detekt_version"
 }
 
+ext {
+    defaultMinSdkVersion = 21
+}
+
 allprojects {
     repositories {
         if (project.hasProperty("googleRepo")) {

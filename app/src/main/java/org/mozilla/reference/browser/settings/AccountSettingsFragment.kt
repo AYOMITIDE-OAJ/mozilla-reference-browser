@@ -29,7 +29,7 @@ import org.mozilla.reference.browser.components.BackgroundServices.Companion.SUP
 import org.mozilla.reference.browser.ext.getPreferenceKey
 import org.mozilla.reference.browser.ext.requireComponents
 
-class AccountSettingsFragment : PreferenceFragmentCompat() {
+class  AccountSettingsFragment : PreferenceFragmentCompat() {
     private val syncStatusObserver = object : SyncStatusObserver {
         override fun onStarted() {
             CoroutineScope(Dispatchers.Main).launch {

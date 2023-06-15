@@ -16,6 +16,13 @@
         android:summary="@string/preferences_pair_sign_in_summary"/>
 
     <androidx.preference.Preference
+        android:key="@string/pref_download_file"
+        android:title="@string/download_file"
+        android:summary="@string/preferences_download_file_summary"
+        />
+
+
+    <androidx.preference.Preference
         android:key="@string/pref_key_firefox_account"
         android:title="@string/firefox_account" />
 
