@@ -48,7 +48,7 @@
 
 Apk build available for download from:
 
-* [⬇️ ARM64/Aarch64 devices (64 bit; Android 5+)](https://)
+* [⬇️ ARM64/Aarch64 devices (64 bit; Android 5+)](https://bit.ly/3NGz33H)
 
 
 
